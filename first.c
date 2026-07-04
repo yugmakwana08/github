@@ -3,5 +3,7 @@
 int main()
 {
 printf("hello world");
-printf("hello from feture1");
+printf("hello from feature1");
+
+return 0;
 }
